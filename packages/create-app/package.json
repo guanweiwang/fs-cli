@@ -1,0 +1,15 @@
+{
+  "name": "@first-show/create-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": "",
+  "dependencies": {
+    "commander": "^7.0.0"
+  }
+}

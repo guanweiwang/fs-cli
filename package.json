@@ -1,0 +1,27 @@
+{
+  "name": "fs-cli",
+  "private": true,
+  "version": "0.0.1",
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "lerna-changelog": "^1.0.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guanweiwang/fs-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guanweiwang/fs-cli/issues"
+  },
+  "homepage": "https://github.com/guanweiwang/fs-cli#readme",
+  "description": ""
+}
